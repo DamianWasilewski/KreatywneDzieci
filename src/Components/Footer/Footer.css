@@ -1,0 +1,24 @@
+.footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background: rgb(243, 242, 247, 0.3);
+}
+
+.footer__Content {
+  color: black;
+  padding: 0.25rem;
+}
+
+.footer__Content-text {
+  margin: auto;
+  font-size: 0.75rem;
+}
+
+@media (min-width: 813px) {
+  .footer__Content-text {
+    margin: auto;
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,29 @@
+.home {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../../Images/tlo.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  font-family: 'Tangerine', cursive;
+}
+
+.home__welcome {
+  display: flex;
+  flex-flow: column;
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: 400;
+  color: rgb(110, 58, 244);
+}
+
+.home__welcome_text {
+  font-size: 10rem;
+}
+
+.home__under-welcome_text {
+  color: black;
+  font-size: 2rem;
+}
