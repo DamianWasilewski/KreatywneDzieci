@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/KreatywneDzieci/static/js/runtime~main.4cc8195a.js"
   },
   {
-    "revision": "37b0692a082aee03746b",
-    "url": "/KreatywneDzieci/static/js/main.37b0692a.chunk.js"
+    "revision": "97fd675e10eb5b4b6742",
+    "url": "/KreatywneDzieci/static/js/main.97fd675e.chunk.js"
   },
   {
     "revision": "0f0f1ed395de9ee32ca5",
     "url": "/KreatywneDzieci/static/js/2.0f0f1ed3.chunk.js"
   },
   {
-    "revision": "37b0692a082aee03746b",
-    "url": "/KreatywneDzieci/static/css/main.f52281b1.chunk.css"
+    "revision": "97fd675e10eb5b4b6742",
+    "url": "/KreatywneDzieci/static/css/main.66d92781.chunk.css"
   },
   {
-    "revision": "c57b1c95a982cbf4c4e7f472d39cc932",
+    "revision": "073a02e545357c187782b7828e6b6ae4",
     "url": "/KreatywneDzieci/index.html"
   }
 ];
