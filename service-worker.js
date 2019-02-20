@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/KreatywneDzieci/precache-manifest.6dfe372ee1eedbba6873ec353b3d11e1.js"
+  "/KreatywneDzieci/precache-manifest.cf41620dadf7aa9cd354b71582de8f3a.js"
 );
 
 workbox.clientsClaim();
